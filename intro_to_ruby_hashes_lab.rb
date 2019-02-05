@@ -7,7 +7,12 @@ actor = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroad => {
+	    :pieces => 4
+	    :names => {}
+	    :rent_in_dollars =>{}
+	  }}
 
 end
 
