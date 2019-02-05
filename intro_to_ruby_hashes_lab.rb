@@ -13,7 +13,8 @@ def monopoly
 	    :names => {}
 	    :rent_in_dollars =>{}
 	  }
-	  	}
+	  	
+	  }
 
 end
 
